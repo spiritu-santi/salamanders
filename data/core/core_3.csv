@@ -1,0 +1,16 @@
+"Taxa","core70","core80","core90"
+"Bacteria;Actinobacteria;Actinobacteria",1,1,1
+"Bacteria;Bacteroidetes;Cytophagia",1,1,NA
+"Bacteria;Bacteroidetes;Flavobacteriia",1,1,1
+"Bacteria;Bacteroidetes;Sphingobacteriia",1,1,1
+"Bacteria;Bacteroidetes;__",1,NA,NA
+"Bacteria;Firmicutes;Bacilli",1,1,1
+"Bacteria;Planctomycetes;Planctomycetia",1,1,NA
+"Bacteria;Proteobacteria;Alphaproteobacteria",1,1,1
+"Bacteria;Proteobacteria;Betaproteobacteria",1,1,1
+"Bacteria;Proteobacteria;Deltaproteobacteria",1,1,1
+"Bacteria;Proteobacteria;Gammaproteobacteria",1,1,1
+"Bacteria;Proteobacteria;__",1,1,1
+"Bacteria;Verrucomicrobia;Subdivision3",1,NA,NA
+"Bacteria;__;__",1,1,1
+"Bacteria;unclassified_Bacteria;",1,1,1
